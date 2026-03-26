@@ -3,3 +3,4 @@ Hello from Git Hub
 Hello from GUI
 
 internals test
+Fast Forward Merge DEMO
