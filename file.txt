@@ -2,6 +2,7 @@ Hello from Git Hub
 
 Hello from GUI
 
-internals test
+Hello from MAIN(Conflict Solving DEMO)
+
 Fast Forward Merge DEMO
 non fast forward demo
