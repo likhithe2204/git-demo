@@ -9,3 +9,4 @@ non fast forward demo
 changes from main - for rebase-demo
 cherry-pick 1
 commit tag
+stash demo
